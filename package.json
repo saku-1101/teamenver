@@ -168,7 +168,7 @@
     "@storybook/jest": "^0.2.3",
     "@storybook/nextjs": "^7.4.6",
     "@storybook/react": "^7.4.6",
-    "@storybook/test-runner": "^0.16.0",
+    "@storybook/test-runner": "^0.17.0",
     "@storybook/testing-library": "^0.2.2",
     "@stylistic/eslint-plugin": "^1.0.0",
     "@testing-library/react": "^14.0.0",
