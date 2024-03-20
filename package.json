@@ -181,7 +181,7 @@
     "lint-staged": "^15.0.0",
     "msw": "^1.2.3",
     "msw-storybook-addon": "^1.8.0",
-    "prettier": "3.1.1",
+    "prettier": "3.2.5",
     "storybook": "^7.4.6",
     "storybook-addon-turbo-build": "^2.0.1",
     "supabase": "^1.100.1",
