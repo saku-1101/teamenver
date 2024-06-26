@@ -24,7 +24,7 @@ jobs:
         run: bun install
 
       - name: Cache bun dependencies
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         id: bun-cache
         with:
           path: node_modules
@@ -49,7 +49,7 @@ jobs:
 
       - name: Restore bun dependencies
         id: bun-cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: node_modules
           key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
@@ -75,7 +75,7 @@ jobs:
 
       - name: Restore bun dependencies
         id: bun-cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: node_modules
           key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
@@ -83,7 +83,7 @@ jobs:
 
       - name: Cache Storybook
         id: storybook_cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: storybook-static
           key: ${{ runner.os }}-${{ github.sha }}
@@ -106,7 +106,7 @@ jobs:
 
       - name: Restore bun dependencies
         id: bun-cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: node_modules
           key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
@@ -114,7 +114,7 @@ jobs:
 
       - name: Restore Storybook
         id: storybook_cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: storybook-static
           key: ${{ runner.os }}-${{ github.sha }}
