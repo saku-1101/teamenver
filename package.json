@@ -124,7 +124,7 @@
     "graphql-ws": "^5.14.0",
     "hygen": "^6.2.11",
     "lucide-react": "^0.302.0",
-    "markuplint": "^3.12.1",
+    "markuplint": "^4.0.0",
     "million": "latest",
     "nanoid": "^5.0.2",
     "next": "14.0.4",
