@@ -138,7 +138,7 @@
     "react-tweet": "^3.1.1",
     "reactflow": "^11.7.4",
     "semver": "^7.5.4",
-    "slate": "^0.101.0",
+    "slate": "^0.103.0",
     "slate-history": "^0.100.0",
     "slate-hyperscript": "^0.100.0",
     "slate-react": "^0.106.0",
