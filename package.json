@@ -87,7 +87,7 @@
     "@udecode/plate-font": "^24.5.2",
     "@udecode/plate-heading": "^24.5.2",
     "@udecode/plate-highlight": "^24.5.2",
-    "@udecode/plate-horizontal-rule": "^24.5.2",
+    "@udecode/plate-horizontal-rule": "^34.0.0",
     "@udecode/plate-indent": "^24.5.2",
     "@udecode/plate-indent-list": "^24.5.2",
     "@udecode/plate-juice": "^24.5.2",
