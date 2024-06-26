@@ -108,7 +108,7 @@
     "@udecode/plate-serializer-md": "^24.5.2",
     "@udecode/plate-tabbable": "^24.5.2",
     "@udecode/plate-table": "^24.5.2",
-    "@udecode/plate-trailing-block": "^24.5.2",
+    "@udecode/plate-trailing-block": "^34.0.0",
     "@vercel/kv": "^0.2.3",
     "@webcontainer/api": "1.1.9",
     "autoprefixer": "^10.4.16",
