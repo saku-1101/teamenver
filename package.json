@@ -112,7 +112,7 @@
     "@vercel/kv": "^0.2.3",
     "@webcontainer/api": "1.1.9",
     "autoprefixer": "^10.4.16",
-    "chromatic": "^7.2.0",
+    "chromatic": "^11.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "cmdk": "^0.2.0",
