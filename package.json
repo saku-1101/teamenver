@@ -75,7 +75,7 @@
     "@udecode/plate-basic-marks": "^28.0.0",
     "@udecode/plate-block-quote": "^28.0.0",
     "@udecode/plate-break": "^28.0.0",
-    "@udecode/plate-caption": "^24.5.2",
+    "@udecode/plate-caption": "^34.0.0",
     "@udecode/plate-code-block": "^27.0.0",
     "@udecode/plate-combobox": "^24.5.2",
     "@udecode/plate-comments": "^24.5.2",
