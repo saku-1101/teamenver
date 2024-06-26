@@ -106,7 +106,7 @@
     "@udecode/plate-serializer-csv": "^24.5.2",
     "@udecode/plate-serializer-docx": "^24.5.2",
     "@udecode/plate-serializer-md": "^24.5.2",
-    "@udecode/plate-tabbable": "^24.5.2",
+    "@udecode/plate-tabbable": "^34.0.0",
     "@udecode/plate-table": "^24.5.2",
     "@udecode/plate-trailing-block": "^24.5.2",
     "@vercel/kv": "^0.2.3",
