@@ -65,7 +65,7 @@
     "@radix-ui/react-tooltip": "^1.0.7",
     "@storybook/addon-postcss": "",
     "@supabase/supabase-js": "^2.31.0",
-    "@types/mime": "^3.0.3",
+    "@types/mime": "^4.0.0",
     "@types/node": "20.14.5",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
