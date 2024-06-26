@@ -80,7 +80,7 @@
     "@udecode/plate-combobox": "^24.5.2",
     "@udecode/plate-comments": "^24.5.2",
     "@udecode/plate-common": "^24.5.2",
-    "@udecode/plate-dnd": "^24.5.2",
+    "@udecode/plate-dnd": "^34.0.0",
     "@udecode/plate-emoji": "^24.5.2",
     "@udecode/plate-excalidraw": "^27.0.0",
     "@udecode/plate-floating": "^24.5.2",
