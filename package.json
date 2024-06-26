@@ -66,7 +66,7 @@
     "@storybook/addon-postcss": "",
     "@supabase/supabase-js": "^2.31.0",
     "@types/mime": "^3.0.3",
-    "@types/node": "20.14.5",
+    "@types/node": "20.14.9",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
     "@types/uuid": "^9.0.6",
@@ -152,7 +152,7 @@
     "zustand": "^4.4.4"
   },
   "volta": {
-    "node": "20.14.0"
+    "node": "20.15.0"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^5.0.0",
