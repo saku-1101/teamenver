@@ -103,7 +103,7 @@
     "@udecode/plate-resizable": "^24.5.2",
     "@udecode/plate-select": "^24.5.2",
     "@udecode/plate-selection": "^24.5.2",
-    "@udecode/plate-serializer-csv": "^24.5.2",
+    "@udecode/plate-serializer-csv": "^35.0.0",
     "@udecode/plate-serializer-docx": "^24.5.2",
     "@udecode/plate-serializer-md": "^24.5.2",
     "@udecode/plate-tabbable": "^24.5.2",
